@@ -34,7 +34,7 @@ You need the **`videomanifest`** request URL from your browser’s Developer Too
 2. Press **F12** (or menu → **Web Developer** → **Toggle Tools**).  
 3. Go to the **Network** tab.  
 4. Start/seek the video so network requests appear.  
-5. In the filter box, type **`videomanifest`** (or sort by **Type** and look for **DASH/MPD** requests).  
+5. In the filter box, type **`videomanifest`** or **`manifest`** .  
 6. Click the request named `videomanifest?...`.  
 7. Right-click it → **Copy** → **Copy URL** (or **Copy → Copy cURL** if you also need headers later).  
 8. Paste that URL into the script when asked.
