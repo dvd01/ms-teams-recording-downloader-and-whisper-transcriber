@@ -49,12 +49,12 @@ Run from a terminal so you can see logs and errors.
 
 **macOS / Linux**
 ```bash
-python3 MCTeams_and_Whisper.py
+python3 teams_downloader_whisper.py
 ```
 
 **Windows (PowerShell)**
 ```powershell
-py .\MCTeams_and_Whisper.py
+py .\teams_downloader_whisper.py
 ```
 
 You’ll be prompted:
