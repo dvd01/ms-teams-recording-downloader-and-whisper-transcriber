@@ -1,0 +1,4 @@
+# Python dependencies for the CLI
+# Note: ffmpeg is a system dependency (install separately and ensure it's in PATH).
+
+openai-whisper
