@@ -54,7 +54,7 @@ python3 auto_teams_whisper.py
 
 **Windows (PowerShell)**
 ```powershell
-py .uto_teams_whisper.py
+py .\auto_teams_whisper.py
 ```
 
 You’ll be prompted:
@@ -76,12 +76,11 @@ You’ll be prompted:
 - The cleaned URL is passed to **ffmpeg**, which downloads `video.mp4` into your chosen folder.  
 - If you chose **Download + Transcribe**, Whisper runs and outputs a `.txt` transcript in the same folder.
 
+---
 
-```
 ## Acknowledgements
 
 - https://ffmpeg.org/
 - https://github.com/openai/whisper
 
----
 
