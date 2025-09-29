@@ -49,12 +49,12 @@ Run from a terminal so you can see logs and errors.
 
 **macOS / Linux**
 ```bash
-python3 auto_teams_whisper.py
+python3 MCTeams_and_Whisper.py
 ```
 
 **Windows (PowerShell)**
 ```powershell
-py .\auto_teams_whisper.py
+py .\MCTeams_and_Whisper.py
 ```
 
 You’ll be prompted:
